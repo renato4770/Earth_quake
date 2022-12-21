@@ -8,3 +8,8 @@ This is a project test where I use plotly libraries to depic Global Earthquakes 
 This was created with a JSON file where is stored 30 days' worth of earthquakes
 
 I've also attached the HTML File where we can see the interactive HTML file
+
+
+I added some features were the dymanic map display where the earthquake occured
+
+![newplot(1)](https://user-images.githubusercontent.com/118706576/209017676-b94c6b01-bde8-42ce-af72-651f368e6fec.png)
